@@ -1,0 +1,24 @@
+---
+title: "Haylie Otwell"
+image: headshot.png
+about:
+  template: jolla
+  links:
+    - icon: github
+      text: GitHub
+      href: https://github.com/haylieotwell
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com/in/haylie-otwell-174404344
+    - icon: envelope
+      text: Contact
+      href: mailto:hotwell@uark.edu
+---
+
+## About Me
+
+I am an Industrial Engineering student at the University of Arkansas with an interest in problem solving, teamwork, and improving processes. Through my coursework and work experiences, I have developed skills in communication, organization, leadership, and working effectively with others.
+
+I enjoy learning new things, taking on challenges, and finding ways to make processes more efficient. My experience as a Resident Assistant has also helped me strengthen my leadership, communication, and problem-solving skills while working with a diverse group of people.
+
+As I continue my education, I am interested in gaining professional experience that allows me to apply what I have learned in the classroom while continuing to grow my technical and interpersonal skills. I am especially interested in opportunities where I can work with others, solve problems, and contribute to meaningful projects.

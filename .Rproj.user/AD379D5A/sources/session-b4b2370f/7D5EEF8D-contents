@@ -1,0 +1,20 @@
+---
+title: "Haylie Otwell"
+image: headshot.png
+about:
+  template: jolla
+  links:
+    - icon: github
+      text: GitHub
+      href: https://github.com/haylieotwell
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com/in/haylie-otwell-174404344
+    - icon: envelope
+      text: Contact
+      href: mailto:hotwell@uark.edu
+---
+
+## About Me
+
+I am a Mechanical Engineering student at the University of Arkansas with an interest in problem solving, teamwork, and improving processes. I enjoy working with people, learning new skills, and gaining experiences that will help me grow professionally.
